@@ -1,0 +1,1 @@
+C:\Users\fatih\source\repos\MauiScanner\MauiScanner.csproj;x64
